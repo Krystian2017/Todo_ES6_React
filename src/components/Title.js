@@ -1,5 +1,5 @@
 import React from 'react';
 
-const Title = props => <h1>Tytuł Strony internetowej Elo Elo</h1>
+const Title = props => <h1>Title of website</h1>
 
 export default Title;

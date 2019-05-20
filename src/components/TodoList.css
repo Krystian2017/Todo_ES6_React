@@ -1,0 +1,13 @@
+.TodoList {
+  background-color: #990033;
+  color: #cc99ff;
+  border: 5px solid #660033;
+  font-size: 22px;
+  width: 30%;
+  min-width: 200px;
+}
+.TodoList>li:hover {
+  color: #bcbcbc;
+  cursor: pointer;
+  font-size: 30px; 
+}
